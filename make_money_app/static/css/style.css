@@ -1,0 +1,50 @@
+#wrapper    {
+    background-color: goldenrod;
+    height: 1100px;
+}
+h4  {
+    margin: 5px 50px;
+    padding: 25px 0px 0px 25px;
+}
+span    {
+    outline: 2px solid black;
+    padding: 5px;
+}
+.columns    {
+    display: flex;
+    justify-content: space-evenly;
+}
+.content    {
+    outline: 2px solid black;
+    align-items: center;
+    width: 280px;
+    height: 160px;
+    text-align: center;
+}
+h5  {
+    padding: 5px 0px;
+    margin: 25px 121px 5px 72px;
+}
+#activities    {
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    overflow: auto;
+    outline: 2px solid black;
+}
+button  {
+    color: goldenrod;
+    background-color: black;
+    height: 25px;
+    font-weight: bold;
+    margin: 15px;
+}
+.earn   {
+    color: green;
+}
+.lose   {
+    color: red;
+}
+.reset  {
+    margin: 0px 205px 25px;
+}
